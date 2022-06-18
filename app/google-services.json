@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "14570401185",
+    "project_id": "android-firebase-emojis",
+    "storage_bucket": "android-firebase-emojis.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14570401185:android:a10098c8bceb487147afe0",
+        "android_client_info": {
+          "package_name": "com.example.androidfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "14570401185-i76jkqotvpcjs2n5e66tff1gkej9kmf5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYAOr7AhN5mnEljTehj7JR_hPkA9a6l8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "14570401185-i76jkqotvpcjs2n5e66tff1gkej9kmf5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
